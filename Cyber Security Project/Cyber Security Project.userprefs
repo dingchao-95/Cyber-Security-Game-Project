@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Documents\AugmentedRealityProj\Assets\Scripts\StartSceneScripts\Button.cs">
+    <Files>
+      <File FileName="..\..\..\Documents\AugmentedRealityProj\Assets\Scripts\StartSceneScripts\TouchInput.cs" Line="58" Column="4" />
+      <File FileName="..\..\..\Documents\AugmentedRealityProj\Assets\Scripts\StartSceneScripts\Button.cs" Line="11" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
